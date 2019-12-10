@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealCalculator</string>
+    <string name="division_symbol">&#247;</string>
+    <string name="seven_gif">https://media.giphy.com/media/Kn6P2zkn6zjEs/giphy.gif</string>
+</resources>
